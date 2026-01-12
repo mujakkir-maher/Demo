@@ -1,2 +1,3 @@
 # Demo
-this is a demo repo for my learning...
+This repository is created to learn and practice Git and GitHub basics.
+It contains simple files and experiments to understand version control, commits, and repository structure.
